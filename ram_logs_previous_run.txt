@@ -1,0 +1,66 @@
+18:28:30 09.11 |             UnityAPI |I| FreezeFrameController - CurrentUploadState:Empty
+18:28:30 09.11 |             UnityAPI |W| Creating Pref with redundant key: AnnotationControls.HasUsedArrow
+18:28:30 09.11 |             UnityAPI |W| Creating Pref with redundant key: AnnotationControls.HasUsedInking
+18:28:30 09.11 |             UnityAPI |I| CultureInfo.CurrentCulture changed to de-DE
+18:28:30 09.11 |             UnityAPI |I| [AppLifecycleManager] Logging verbose toggle: False
+18:28:30 09.11 |             UnityAPI |I| Checking for AR support...
+18:28:30 09.11 |             UnityAPI |I| MainCamera - iPhone15,4 CopyTextureSupport: Basic, Copy3D, DifferentTypes, TextureToRT, RTToTexture
+18:28:30 09.11 |             UnityAPI |I| CameraAR creating new RenderTexture: 1179x2556, Depth: 16, Format: ARGB32
+18:28:30 09.11 |             UnityAPI |I| ARManager: EnableAR set to False
+18:28:30 09.11 |             UnityAPI |I| Checking for AR support NOT completed. Result will be incorrect
+18:28:30 09.11 |             UnityAPI |I| Checking for AR support NOT completed. Result will be incorrect
+18:28:30 09.11 |             UnityAPI |I| Checking for AR support NOT completed. Result will be incorrect
+18:28:30 09.11 |             UnityAPI |I| Checking for AR support NOT completed. Result will be incorrect
+18:28:30 09.11 |             UnityAPI |I| Checking for AR support NOT completed. Result will be incorrect
+18:28:30 09.11 |             UnityAPI |I| MainCamera - iPhone15,4 CopyTextureSupport: Basic, Copy3D, DifferentTypes, TextureToRT, RTToTexture
+18:28:30 09.11 |             UnityAPI |I| Camera2D creating new RenderTexture: 1179x2556, Depth: 0, Format: ARGB32
+18:28:30 09.11 |             UnityAPI |I| ProvideFrameController - UpdateTargetDelayTime set to: DefaultVideoFrameRate - 15
+18:28:30 09.11 |             UnityAPI |I| AppFrameRateSettings - SetFrameRateMode: EnergySaverOff, SetByUser:True, AppTargetFrameRate:30
+18:28:30 09.11 |             UnityAPI |I| AuthenticationService created with brokered auth enabled
+18:28:30 09.11 |             UnityAPI |I| AuthenticationService is now using RemoteAssist.Mobile.TeamsTokenProvider
+18:28:30 09.11 |             UnityAPI |I| ECS RequestUri: https://ecs.office.com/config/v1/RemoteAssist/1.0?clientId=43CDA2C3-1977-412E-8831-ADBAF8870690
+18:28:30 09.11 |             UnityAPI |I| Changing UIState from 0 to Initializing
+18:28:30 09.11 |             UnityAPI |I| ARManager: EnableAR set to False
+18:28:30 09.11 |             UnityAPI |I| ECS RequestUri: https://ecs.office.com/config/v1/RemoteAssist/1.0?clientId=43CDA2C3-1977-412E-8831-ADBAF8870690
+18:28:30 09.11 |             UnityAPI |I| ECS RequestUri: https://ecs.office.com/config/v1/RemoteAssist/1.0?clientId=43CDA2C3-1977-412E-8831-ADBAF8870690
+18:28:30 09.11 |             UnityAPI |I| Device supports AR!
+18:28:30 09.11 |             UnityAPI |I| [MsalClient] Clearing account cache
+18:28:30 09.11 | BarebonesCore-CustomVirtualVideoSourceProvider |I| CTOR - fccVideoFormat: 842094158, frameWidth: 1280, frameHeight: 720, stride: 1280, frameRate: 15, bitsPerPixel: 12
+18:28:30 09.11 | BarebonesCore-CustomVirtualVideoSourceProvider |I| 1 Virtual source was given name RAMCVSP
+18:28:30 09.11 |        BarebonesCore |E| logout()
+18:28:30 09.11 |             UnityAPI |I| NotificationManager: OnTokenReceived
+18:28:30 09.11 |             UnityAPI |I| Changing UIState from Initializing to Identity
+18:28:30 09.11 |             UnityAPI |I| ARManager: EnableAR set to False
+18:28:31 09.11 |             UnityAPI |I| EnforceECSMinVersion - ECS config PASS: 2024.8.19 | 2024.8.19
+18:28:32 09.11 |             UnityAPI |I| Changing UIState from Identity to Welcome
+18:28:32 09.11 |             UnityAPI |I| ARManager: EnableAR set to False
+18:28:32 09.11 |        BarebonesCore |I| Setting up
+18:28:32 09.11 |        BarebonesCore |I| Creating SkyLibWrapper with version 4505/0.8.666.1706
+18:28:32 09.11 |        BarebonesCore |I| Starting SkyLib
+18:28:32 09.11 |        BarebonesCore |I| onPropertyChanged objectType 1 not known: 668 value: 0
+18:28:32 09.11 |        BarebonesCore |I| Setting up call handler
+18:28:32 09.11 |        BarebonesCore |I| Registering custom virtual video source provider
+18:28:32 09.11 | BarebonesCore-CustomVirtualVideoSourceProvider |D| GetSourceName
+18:28:32 09.11 | BarebonesCore-CustomVirtualVideoSourceProvider |I| Initialize
+18:28:32 09.11 | BarebonesCore-CustomVirtualVideoSourceProvider |D| GetSourceName
+18:28:32 09.11 | BarebonesCore-CustomVirtualVideoSourceProvider |D| IsPano
+18:28:32 09.11 |        BarebonesCore |I| Setup completed successfully
+18:28:32 09.11 |             UnityAPI |I| From app launch to the start of authentication (minus user sign-in page interaction), 0,01410201 seconds elapsed
+18:28:32 09.11 |        BarebonesCore |I| onPropertyChanged objectType 1 not known: 404 value: 0
+18:28:32 09.11 |             UnityAPI |I| [MsalClient] GetToken
+18:28:32 09.11 |             UnityAPI |I| [MsalClient] AcquireTokenInteractively
+18:28:44 09.11 |             UnityAPI |I| AadTokenResultCallback.OnSuccess - TenantId - f8cdef31-a31e-4b4a-93e4-5f571e91255a, DataBoundaries - , ExpiresOn - 11.09.2024 17:37:30, Time now - 11.09.2024 16:28:44
+18:28:44 09.11 |             UnityAPI |I| Fetching skype token
+18:28:44 09.11 |             UnityAPI |I| EnforceECSMinVersion - ECS config PASS: 2024.8.19 | 2024.8.19
+18:28:44 09.11 |             UnityAPI |I| [MsalClient] GetToken
+18:28:44 09.11 |             UnityAPI |I| [MsalClient] GetAccountForId
+18:28:44 09.11 |             UnityAPI |I| [MsalClient] AcquireTokenSilently
+18:28:45 09.11 |             UnityAPI |I| AadTokenResultCallback.OnSuccess - TenantId - f8cdef31-a31e-4b4a-93e4-5f571e91255a, DataBoundaries - , ExpiresOn - 11.09.2024 17:46:54, Time now - 11.09.2024 16:28:45
+18:28:45 09.11 |             UnityAPI |I| Brokered auth has been disabled
+18:28:45 09.11 |             UnityAPI |I| Brokered auth has been enabled
+18:28:45 09.11 |             UnityAPI |I| Authentication took 12,58799 seconds
+18:28:45 09.11 |             UnityAPI |I| [MsalClient] Clearing account cache
+18:28:45 09.11 |             UnityAPI |I| [MsalClient] Clearing account cache
+18:28:48 09.11 |             UnityAPI |I| Changing UIState from Welcome to Identity
+18:28:48 09.11 |             UnityAPI |I| ARManager: EnableAR set to False
+18:28:55 09.11 |             UnityAPI |I| EnforceECSMinVersion - ECS config PASS: 2024.8.19 | 2024.8.19

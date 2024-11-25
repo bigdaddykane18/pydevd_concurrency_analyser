@@ -1,0 +1,272 @@
+01:19:43 09.19 |             UnityAPI |I| FreezeFrameController - CurrentUploadState:Empty
+01:19:43 09.19 |             UnityAPI |W| Creating Pref with redundant key: AnnotationControls.HasUsedArrow
+01:19:43 09.19 |             UnityAPI |W| Creating Pref with redundant key: AnnotationControls.HasUsedInking
+01:19:43 09.19 |             UnityAPI |I| CultureInfo.CurrentCulture changed to de-DE
+01:19:43 09.19 |             UnityAPI |I| [AppLifecycleManager] Logging verbose toggle: False
+01:19:43 09.19 |             UnityAPI |I| Checking for AR support...
+01:19:43 09.19 |             UnityAPI |I| MainCamera - iPhone15,4 CopyTextureSupport: Basic, Copy3D, DifferentTypes, TextureToRT, RTToTexture
+01:19:43 09.19 |             UnityAPI |I| CameraAR creating new RenderTexture: 1179x2556, Depth: 16, Format: ARGB32
+01:19:43 09.19 |             UnityAPI |I| ARManager: EnableAR set to False
+01:19:43 09.19 |             UnityAPI |I| Checking for AR support NOT completed. Result will be incorrect
+01:19:43 09.19 |             UnityAPI |I| Checking for AR support NOT completed. Result will be incorrect
+01:19:43 09.19 |             UnityAPI |I| Checking for AR support NOT completed. Result will be incorrect
+01:19:43 09.19 |             UnityAPI |I| Checking for AR support NOT completed. Result will be incorrect
+01:19:43 09.19 |             UnityAPI |I| Checking for AR support NOT completed. Result will be incorrect
+01:19:43 09.19 |             UnityAPI |I| MainCamera - iPhone15,4 CopyTextureSupport: Basic, Copy3D, DifferentTypes, TextureToRT, RTToTexture
+01:19:43 09.19 |             UnityAPI |I| Camera2D creating new RenderTexture: 1179x2556, Depth: 0, Format: ARGB32
+01:19:44 09.19 |             UnityAPI |I| ProvideFrameController - UpdateTargetDelayTime set to: DefaultVideoFrameRate - 15
+01:19:44 09.19 |             UnityAPI |I| AppFrameRateSettings - SetFrameRateMode: EnergySaverOff, SetByUser:True, AppTargetFrameRate:30
+01:19:44 09.19 |             UnityAPI |I| AuthenticationService created with brokered auth enabled
+01:19:44 09.19 |             UnityAPI |I| AuthenticationService is now using RemoteAssist.Mobile.TeamsTokenProvider
+01:19:44 09.19 |             UnityAPI |I| ECS RequestUri: https://ecs.office.com/config/v1/RemoteAssist/1.0?clientId=43CDA2C3-1977-412E-8831-ADBAF8870690
+01:19:44 09.19 |             UnityAPI |I| Changing UIState from 0 to Initializing
+01:19:44 09.19 |             UnityAPI |I| ARManager: EnableAR set to False
+01:19:44 09.19 |             UnityAPI |I| ECS RequestUri: https://ecs.office.com/config/v1/RemoteAssist/1.0?clientId=43CDA2C3-1977-412E-8831-ADBAF8870690
+01:19:44 09.19 |             UnityAPI |I| ECS RequestUri: https://ecs.office.com/config/v1/RemoteAssist/1.0?clientId=43CDA2C3-1977-412E-8831-ADBAF8870690
+01:19:44 09.19 |             UnityAPI |I| Device supports AR!
+01:19:44 09.19 |             UnityAPI |I| [MsalClient] Clearing account cache
+01:19:44 09.19 | BarebonesCore-CustomVirtualVideoSourceProvider |I| CTOR - fccVideoFormat: 842094158, frameWidth: 1280, frameHeight: 720, stride: 1280, frameRate: 15, bitsPerPixel: 12
+01:19:44 09.19 | BarebonesCore-CustomVirtualVideoSourceProvider |I| 1 Virtual source was given name RAMCVSP
+01:19:44 09.19 |        BarebonesCore |E| logout()
+01:19:44 09.19 |             UnityAPI |I| NotificationManager: OnTokenReceived
+01:19:44 09.19 |             UnityAPI |I| Changing UIState from Initializing to Identity
+01:19:44 09.19 |             UnityAPI |I| ARManager: EnableAR set to False
+01:19:44 09.19 |             UnityAPI |I| EnforceECSMinVersion - ECS config PASS: 2024.8.19 | 2024.8.19
+01:19:46 09.19 |             UnityAPI |I| Changing UIState from Identity to Welcome
+01:19:46 09.19 |             UnityAPI |I| ARManager: EnableAR set to False
+01:19:46 09.19 |        BarebonesCore |I| Setting up
+01:19:46 09.19 |        BarebonesCore |I| Creating SkyLibWrapper with version 4505/0.8.666.1706
+01:19:46 09.19 |        BarebonesCore |I| Starting SkyLib
+01:19:46 09.19 |        BarebonesCore |I| onPropertyChanged objectType 1 not known: 668 value: 0
+01:19:46 09.19 |        BarebonesCore |I| Setting up call handler
+01:19:46 09.19 |        BarebonesCore |I| Registering custom virtual video source provider
+01:19:46 09.19 | BarebonesCore-CustomVirtualVideoSourceProvider |D| GetSourceName
+01:19:46 09.19 | BarebonesCore-CustomVirtualVideoSourceProvider |I| Initialize
+01:19:46 09.19 | BarebonesCore-CustomVirtualVideoSourceProvider |D| GetSourceName
+01:19:46 09.19 | BarebonesCore-CustomVirtualVideoSourceProvider |D| IsPano
+01:19:46 09.19 |        BarebonesCore |I| Setup completed successfully
+01:19:46 09.19 |             UnityAPI |I| From app launch to the start of authentication (minus user sign-in page interaction), 0,012373 seconds elapsed
+01:19:46 09.19 |        BarebonesCore |I| onPropertyChanged objectType 1 not known: 404 value: 0
+01:19:46 09.19 |             UnityAPI |I| [MsalClient] GetToken
+01:19:46 09.19 |             UnityAPI |I| [MsalClient] AcquireTokenInteractively
+01:20:06 09.19 |             UnityAPI |I| Authentication failed with a token provider exception
+01:20:06 09.19 |             UnityAPI |E| 
+[Error] MRW.Authentication.Exceptions.TokenProviderException: Authentication error: Der Vorgang konnte nicht abgeschlossen werden. (MSALErrorDomain-Fehler -50000.). Internal error: -42700
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter`1[TResult].GetResult () [0x00000] in <00000000000000000000000000000000>:0 
+  at MRW.Authentication.IOSNativeMsalAPI+<GetTokenAsync>d__8.MoveNext () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.RunCallback (System.Threading.ContextCallback callback, System.Object state, System.Threading.Tasks.Task& currentTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishContinuations () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task`1[TResult].TrySetException (System.Object exceptionObject) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.TaskCompletionSource`1[TResult].TrySetException (System.Exception exception) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.TaskCompletionSource`1[TResult].SetException (System.Exception exception) [0x00000] in <00000000000000000000000000000000>:0 
+  at MRW.Authentication.IOSNativeMsalAPI.OnMsalError (MRW.Authentication.IOSNativeMsalAPI+IOSMsalRequestError error, System.String errorMessage, System.IntPtr taskCompletionSource) [0x00000] in <00000000000000000000000000000000>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter`1[TResult].GetResult () [0x00000] in <00000000000000000000000000000000>:0 
+  at MRW.Authentication.IOSTokenProvider+<RequestToken>d__10.MoveNext () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.RunCallback (System.Threading.ContextCallback callback, System.Object state, System.Threading.Tasks.Task& currentTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishContinuations () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task`1[TResult].TrySetException (System.Object exceptionObject) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1[TResult].SetException (System.Exception exception) [0x00000] in <00000000000000000000000000000000>:0 
+  at MRW.Authentication.IOSNativeMsalAPI+<GetTokenAsync>d__8.MoveNext () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.RunCallback (System.Threading.ContextCallback callback, System.Object state, System.Threading.Tasks.Task& currentTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishContinuations () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task`1[TResult].TrySetException (System.Object exceptionObject) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.TaskCompletionSource`1[TResult].TrySetException (System.Exception exception) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.TaskCompletionSource`1[TResult].SetException (System.Exception exception) [0x00000] in <00000000000000000000000000000000>:0 
+  at MRW.Authentication.IOSNativeMsalAPI.OnMsalError (MRW.Authentication.IOSNativeMsalAPI+IOSMsalRequestError error, System.String errorMessage, System.IntPtr taskCompletionSource) [0x00000] in <00000000000000000000000000000000>:0 
+Debug:ReportLog(Int32, String)
+MRW.Authentication.<RequestToken>d__10:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetException(Exception)
+MRW.Authentication.<GetTokenAsync>d__8:MoveNext()
+System.Threading.Tasks.TaskCompletionSource`1:SetException(Exception)
+MRW.Authentication.IOSNativeMsalAPI:OnMsalError(IOSMsalRequestError, String, IntPtr)
+
+01:20:06 09.19 |             UnityAPI |E| MRW.Authentication.Exceptions.TokenProviderException: Authentication error: Der Vorgang konnte nicht abgeschlossen werden. (MSALErrorDomain-Fehler -50000.). Internal error: -42700
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter`1[TResult].GetResult () [0x00000] in <00000000000000000000000000000000>:0 
+  at MRW.Authentication.IOSNativeMsalAPI+<GetTokenAsync>d__8.MoveNext () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.RunCallback (System.Threading.ContextCallback callback, System.Object state, System.Threading.Tasks.Task& currentTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishContinuations () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task`1[TResult].TrySetException (System.Object exceptionObject) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.TaskCompletionSource`1[TResult].TrySetException (System.Exception exception) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.TaskCompletionSource`1[TResult].SetException (System.Exception exception) [0x00000] in <00000000000000000000000000000000>:0 
+  at MRW.Authentication.IOSNativeMsalAPI.OnMsalError (MRW.Authentication.IOSNativeMsalAPI+IOSMsalRequestError error, System.String errorMessage, System.IntPtr taskCompletionSource) [0x00000] in <00000000000000000000000000000000>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter`1[TResult].GetResult () [0x00000] in <00000000000000000000000000000000>:0 
+  at MRW.Authentication.IOSTokenProvider+<RequestToken>d__10.MoveNext () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.RunCallback (System.Threading.ContextCallback callback, System.Object state, System.Threading.Tasks.Task& currentTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishContinuations () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task`1[TResult].TrySetException (System.Object exceptionObject) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1[TResult].SetException (System.Exception exception) [0x00000] in <00000000000000000000000000000000>:0 
+  at MRW.Authentication.IOSNativeMsalAPI+<GetTokenAsync>d__8.MoveNext () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.RunCallback (System.Threading.ContextCallback callback, System.Object state, System.Threading.Tasks.Task& currentTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishContinuations () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task`1[TResult].TrySetException (System.Object exceptionObject) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.TaskCompletionSource`1[TResult].TrySetException (System.Exception exception) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.TaskCompletionSource`1[TResult].SetException (System.Exception exception) [0x00000] in <00000000000000000000000000000000>:0 
+  at MRW.Authentication.IOSNativeMsalAPI.OnMsalError (MRW.Authentication.IOSNativeMsalAPI+IOSMsalRequestError error, System.String errorMessage, System.IntPtr taskCompletionSource) [0x00000] in <00000000000000000000000000000000>:0 
+01:20:06 09.19 |             UnityAPI |I| AadTokenResultCallback.OnError - Authentication failed with a token provider exception
+01:20:06 09.19 |             UnityAPI |I| Fetching skype token
+01:20:06 09.19 |             UnityAPI |I| EnforceECSMinVersion - ECS config PASS: 2024.8.19 | 2024.8.19
+01:20:06 09.19 |             UnityAPI |I| [MsalClient] GetToken
+01:20:06 09.19 |             UnityAPI |I| [MsalClient] AcquireTokenInteractively
+01:20:13 09.19 |             UnityAPI |I| Authentication failed with a token provider exception
+01:20:13 09.19 |             UnityAPI |E| 
+[Error] MRW.Authentication.Exceptions.TokenProviderException: Authentication error: Der Vorgang konnte nicht abgeschlossen werden. (MSALErrorDomain-Fehler -50000.). Internal error: -42700
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter`1[TResult].GetResult () [0x00000] in <00000000000000000000000000000000>:0 
+  at MRW.Authentication.IOSNativeMsalAPI+<GetTokenAsync>d__8.MoveNext () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.RunCallback (System.Threading.ContextCallback callback, System.Object state, System.Threading.Tasks.Task& currentTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishContinuations () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task`1[TResult].TrySetException (System.Object exceptionObject) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.TaskCompletionSource`1[TResult].TrySetException (System.Exception exception) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.TaskCompletionSource`1[TResult].SetException (System.Exception exception) [0x00000] in <00000000000000000000000000000000>:0 
+  at MRW.Authentication.IOSNativeMsalAPI.OnMsalError (MRW.Authentication.IOSNativeMsalAPI+IOSMsalRequestError error, System.String errorMessage, System.IntPtr taskCompletionSource) [0x00000] in <00000000000000000000000000000000>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter`1[TResult].GetResult () [0x00000] in <00000000000000000000000000000000>:0 
+  at MRW.Authentication.IOSTokenProvider+<RequestToken>d__10.MoveNext () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.RunCallback (System.Threading.ContextCallback callback, System.Object state, System.Threading.Tasks.Task& currentTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishContinuations () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task`1[TResult].TrySetException (System.Object exceptionObject) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1[TResult].SetException (System.Exception exception) [0x00000] in <00000000000000000000000000000000>:0 
+  at MRW.Authentication.IOSNativeMsalAPI+<GetTokenAsync>d__8.MoveNext () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.RunCallback (System.Threading.ContextCallback callback, System.Object state, System.Threading.Tasks.Task& currentTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishContinuations () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task`1[TResult].TrySetException (System.Object exceptionObject) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.TaskCompletionSource`1[TResult].TrySetException (System.Exception exception) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.TaskCompletionSource`1[TResult].SetException (System.Exception exception) [0x00000] in <00000000000000000000000000000000>:0 
+  at MRW.Authentication.IOSNativeMsalAPI.OnMsalError (MRW.Authentication.IOSNativeMsalAPI+IOSMsalRequestError error, System.String errorMessage, System.IntPtr taskCompletionSource) [0x00000] in <00000000000000000000000000000000>:0 
+Debug:ReportLog(Int32, String)
+MRW.Authentication.<RequestToken>d__10:MoveNext()
+System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1:SetException(Exception)
+MRW.Authentication.<GetTokenAsync>d__8:MoveNext()
+System.Threading.Tasks.TaskCompletionSource`1:SetException(Exception)
+MRW.Authentication.IOSNativeMsalAPI:OnMsalError(IOSMsalRequestError, String, IntPtr)
+
+01:20:13 09.19 |             UnityAPI |E| MRW.Authentication.Exceptions.TokenProviderException: Authentication error: Der Vorgang konnte nicht abgeschlossen werden. (MSALErrorDomain-Fehler -50000.). Internal error: -42700
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter`1[TResult].GetResult () [0x00000] in <00000000000000000000000000000000>:0 
+  at MRW.Authentication.IOSNativeMsalAPI+<GetTokenAsync>d__8.MoveNext () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.RunCallback (System.Threading.ContextCallback callback, System.Object state, System.Threading.Tasks.Task& currentTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishContinuations () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task`1[TResult].TrySetException (System.Object exceptionObject) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.TaskCompletionSource`1[TResult].TrySetException (System.Exception exception) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.TaskCompletionSource`1[TResult].SetException (System.Exception exception) [0x00000] in <00000000000000000000000000000000>:0 
+  at MRW.Authentication.IOSNativeMsalAPI.OnMsalError (MRW.Authentication.IOSNativeMsalAPI+IOSMsalRequestError error, System.String errorMessage, System.IntPtr taskCompletionSource) [0x00000] in <00000000000000000000000000000000>:0 
+--- End of stack trace from previous location where exception was thrown ---
+  at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.TaskAwaiter`1[TResult].GetResult () [0x00000] in <00000000000000000000000000000000>:0 
+  at MRW.Authentication.IOSTokenProvider+<RequestToken>d__10.MoveNext () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.RunCallback (System.Threading.ContextCallback callback, System.Object state, System.Threading.Tasks.Task& currentTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishContinuations () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task`1[TResult].TrySetException (System.Object exceptionObject) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1[TResult].SetException (System.Exception exception) [0x00000] in <00000000000000000000000000000000>:0 
+  at MRW.Authentication.IOSNativeMsalAPI+<GetTokenAsync>d__8.MoveNext () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Action.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ContextCallback.Invoke (System.Object state) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.AwaitTaskContinuation.RunCallback (System.Threading.ContextCallback callback, System.Object state, System.Threading.Tasks.Task& currentTask) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.FinishContinuations () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task`1[TResult].TrySetException (System.Object exceptionObject) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.TaskCompletionSource`1[TResult].TrySetException (System.Exception exception) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.TaskCompletionSource`1[TResult].SetException (System.Exception exception) [0x00000] in <00000000000000000000000000000000>:0 
+  at MRW.Authentication.IOSNativeMsalAPI.OnMsalError (MRW.Authentication.IOSNativeMsalAPI+IOSMsalRequestError error, System.String errorMessage, System.IntPtr taskCompletionSource) [0x00000] in <00000000000000000000000000000000>:0 
+01:20:13 09.19 |             UnityAPI |I| AadTokenResultCallback.OnError - Authentication failed with a token provider exception
+01:20:13 09.19 |             UnityAPI |I| Changing UIState from Welcome to Identity
+01:20:13 09.19 |             UnityAPI |I| ARManager: EnableAR set to False
+01:20:13 09.19 |             UnityAPI |I| EnforceECSMinVersion - ECS config PASS: 2024.8.19 | 2024.8.19
+01:20:14 09.19 |             UnityAPI |I| [MsalClient] Clearing account cache
+01:20:14 09.19 |             UnityAPI |I| [MsalClient] Clearing account cache
+01:20:17 09.19 |             UnityAPI |I| Changing UIState from Identity to Welcome
+01:20:17 09.19 |             UnityAPI |I| ARManager: EnableAR set to False
+01:20:17 09.19 |        BarebonesCore |I| Setting up
+01:20:17 09.19 |             UnityAPI |I| [MsalClient] GetToken
+01:20:17 09.19 |             UnityAPI |I| [MsalClient] AcquireTokenInteractively
+01:20:40 09.19 |             UnityAPI |I| AadTokenResultCallback.OnSuccess - TenantId - f8cdef31-a31e-4b4a-93e4-5f571e91255a, DataBoundaries - , ExpiresOn - 19.09.2024 00:32:01, Time now - 18.09.2024 23:20:40
+01:20:40 09.19 |             UnityAPI |I| Fetching skype token
+01:20:40 09.19 |             UnityAPI |I| EnforceECSMinVersion - ECS config PASS: 2024.8.19 | 2024.8.19
+01:20:40 09.19 |             UnityAPI |I| [MsalClient] GetToken
+01:20:40 09.19 |             UnityAPI |I| [MsalClient] GetAccountForId
+01:20:40 09.19 |             UnityAPI |I| [MsalClient] AcquireTokenSilently
+01:20:42 09.19 |             UnityAPI |I| AadTokenResultCallback.OnSuccess - TenantId - f8cdef31-a31e-4b4a-93e4-5f571e91255a, DataBoundaries - , ExpiresOn - 19.09.2024 00:22:18, Time now - 18.09.2024 23:20:42
+01:20:42 09.19 |             UnityAPI |I| Brokered auth has been disabled
+01:20:43 09.19 |             UnityAPI |I| Brokered auth has been enabled
+01:20:43 09.19 |             UnityAPI |I| Authentication took 25,69638 seconds
+01:20:43 09.19 |             UnityAPI |I| [MsalClient] Clearing account cache
+01:20:43 09.19 |             UnityAPI |I| [MsalClient] Clearing account cache
+01:20:46 09.19 |             UnityAPI |I| Changing UIState from Welcome to Identity
+01:20:46 09.19 |             UnityAPI |I| ARManager: EnableAR set to False
+01:20:55 09.19 |             UnityAPI |I| EnforceECSMinVersion - ECS config PASS: 2024.8.19 | 2024.8.19
+01:20:56 09.19 |             UnityAPI |I| Changing UIState from Identity to Call
+01:20:56 09.19 |             UnityAPI |I| ARManager: EnableAR set to True
+01:20:56 09.19 |             UnityAPI |I| [IOSUtils] Is MAM local saving allowed: true
+01:20:57 09.19 |             UnityAPI |E| 
+[Error] [XRInputSubsystem] A device disconnection with the id 0 has been reported but no device with that id was connected.
+System.Action:Invoke()
+
+01:20:57 09.19 |             UnityAPI |E| 
+[Error] Coroutine couldn't be started because the the game object 'UIManager' is inactive!
+RemoteAssist.Mobile.UI.HydrationController:set_Visible(Boolean)
+RemoteAssist.Mobile.UI.ARErrorUI:Reset()
+

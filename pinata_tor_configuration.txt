@@ -1,0 +1,1 @@
+{"pinata_tor_setup": {TOR IP: 127.0.0.1:39050, Bridge Ports: obfs4 socks5 127.0.0.1:47300,meek_lite socks5 127.0.0.1:47000, snowflake socks5 127.0.0.1:52000}}
